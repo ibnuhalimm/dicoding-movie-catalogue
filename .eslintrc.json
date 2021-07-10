@@ -13,6 +13,7 @@
     },
     "rules": {
         "indent": ["error", 4],
-        "object-curly-spacing": [2, "always"]
+        "object-curly-spacing": [2, "always"],
+        "require-jsdoc": 0
     }
 }
