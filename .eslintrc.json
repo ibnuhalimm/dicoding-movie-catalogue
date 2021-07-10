@@ -12,5 +12,7 @@
         "sourceType": "module"
     },
     "rules": {
+        "indent": ["error", 4],
+        "object-curly-spacing": [2, "always"]
     }
 }
